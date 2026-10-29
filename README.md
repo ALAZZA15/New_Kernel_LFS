@@ -45,3 +45,7 @@ Requires `x86_64-elf-gcc`, `nasm`, `qemu-system-x86_64`, `grub-mkrescue`, `xorri
 
 Early stage - milestone reached: kernel boots, prints text, and catches exceptions.
 Next: PIC remap, timer, keyboard, memory allocator, userspace.
+
+## Documentation
+
+- [Migration guide](docs/migration.md)
